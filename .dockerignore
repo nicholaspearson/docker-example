@@ -1,0 +1,8 @@
+vendor/
+.env
+.env.example
+README.md
+.gitignore
+.gitattributes
+.editorconfig
+.styleci.yml
